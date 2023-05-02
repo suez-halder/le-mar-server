@@ -2,11 +2,11 @@
     "chefs": [
       {
         "id": 1,
-        "picture": "https://i.ibb.co/cywNL2v/chef-1.jpg",
+        "picture": "https://i.ibb.co/k4Zdt3S/chef-4.webp",
         "name": "Jean-Pierre Dupont",
         "bio": "Jean-Pierre Dupont is a talented French chef with 15 years of experience in the culinary industry. He has created 87 unique recipes that have been enjoyed by many, garnering him 152 likes from his customers. Dupont is passionate about cooking and is known for his ability to blend traditional French techniques with contemporary flavors, creating dishes that are both elegant and delicious. His dedication to using only the finest ingredients ensures that his dishes are of the highest quality. Despite his relatively short career, Dupont has already made a name for himself in the culinary world, and his star is sure to continue rising in the years to come.",
-        "years_of_experience": 15,
-        "num_recipes": 87,
+        "experience": 15,
+        "total_recipes": 87,
         "likes": 152,
         "recipes": [
           {
@@ -63,8 +63,8 @@
         "picture": "https://i.ibb.co/rQ9WRHn/chef-2.jpg",
         "name": "Marie-Claire Dubois",
         "bio": "Marie-Claire Dubois is a highly skilled chef with 20 years of experience in the culinary industry. With 112 unique recipes under her belt, Dubois has garnered 245 likes from her customers. She is known for her creative flair and her ability to experiment with ingredients, creating unique and exciting dishes. Dubois' passion for cooking is evident in every dish she creates, and her dedication to using fresh and locally-sourced ingredients has earned her a loyal following. Her talent and expertise have made her a respected figure in the culinary world, and she continues to inspire and innovate with her cooking.",
-        "years_of_experience": 20,
-        "num_recipes": 112,
+        "experience": 20,
+        "total_recipes": 112,
         "likes": 245,
         "recipes": [
           { "name": "Ratatouille",
@@ -117,8 +117,8 @@
         "picture": "https://i.ibb.co/dBdtN9W/chef-3.jpg",
         "name": "Antoine Laurent",
         "bio": "Antoine Laurent is a talented chef with 12 years of experience in the culinary industry. With 67 unique recipes, Laurent has earned 98 likes from his customers. His approach to cooking is simple yet sophisticated, emphasizing the natural flavors of fresh ingredients. Laurent's passion for food started at a young age, and he has since honed his skills under the guidance of some of the most renowned chefs in the industry. Despite his relatively short career, Laurent has already made a name for himself in the culinary world, and his talent and dedication are evident in every dish he creates. With his commitment to excellence and his unwavering passion for food, Laurent is sure to continue making waves in the industry for years to come.",
-        "years_of_experience": 12,
-        "num_recipes": 67,
+        "experience": 12,
+        "total_recipes": 67,
         "likes": 98,
         "recipes": [
           {
@@ -182,11 +182,11 @@
       },
       {
         "id": 4,
-        "picture": "https://i.ibb.co/k4Zdt3S/chef-4.webp",
+        "picture": "https://i.ibb.co/cywNL2v/chef-1.jpg",
         "name": "Sophie Martin",
         "bio": "Sophie Martin is an accomplished chef with 18 years of experience in the culinary industry. With 92 unique recipes, Martin has earned 187 likes from her customers. Her passion for cooking started at a young age, and she has since developed her skills through formal training and hands-on experience. Martin's cooking style is characterized by her ability to fuse traditional techniques with modern flavors, creating dishes that are both elegant and innovative. Her commitment to using fresh, seasonal ingredients and her attention to detail have earned her a reputation for excellence in the industry. Martin's talent and dedication to her craft are evident in every dish she creates, and she continues to inspire and delight her customers with her culinary creations.",
-        "years_of_experience": 18,
-        "num_recipes": 92,
+        "experience": 18,
+        "total_recipes": 92,
         "likes": 187,
         "recipes": [
           { "name": "Ratatouille",
@@ -240,8 +240,8 @@
         "picture": "https://i.ibb.co/xqJWcTV/chef-5.jpg",
         "name": "Pierre Leblanc",
         "bio": "Pierre Leblanc is a talented chef with 10 years of experience in the culinary industry. With 45 unique recipes, Leblanc has earned 75 likes from his customers. His cooking style is characterized by his ability to bring out the natural flavors of his ingredients, creating dishes that are both simple and delicious. Leblanc's passion for food started at a young age, and he has since honed his skills through a combination of formal training and hands-on experience. His dedication to his craft is evident in every dish he creates, and his commitment to using fresh and locally-sourced ingredients has earned him a loyal following. Despite his relatively short career, Leblanc has already made a name for himself in the industry, and his talent and expertise are sure to continue shining in the years to come.",
-        "years_of_experience": 10,
-        "num_recipes": 45,
+        "experience": 10,
+        "total_recipes": 45,
         "likes": 75,
         "recipes": [
           {
@@ -301,8 +301,8 @@
         "picture": "https://i.ibb.co/jWn5CmK/chef-6.jpg",
         "name": "Isabelle Dupuis",
         "bio": "Isabelle Dupuis is an accomplished chef with 22 years of experience in the culinary industry. With 118 unique recipes, Dupuis has earned an impressive 298 likes from her customers. Her passion for food started at a young age, and she has since honed her skills through formal training and extensive experience working in some of the most prestigious kitchens around the world. Dupuis' cooking style is characterized by her ability to blend traditional techniques with modern flavors, creating dishes that are both sophisticated and approachable. Her commitment to using fresh, seasonal ingredients and her attention to detail have earned her a reputation for excellence in the industry. Dupuis' talent and dedication to her craft are evident in every dish she creates, and she continues to inspire and delight her customers with her culinary creations.",
-        "years_of_experience": 22,
-        "num_recipes": 118,
+        "experience": 22,
+        "total_recipes": 118,
         "likes": 298,
         "recipes": [
           {
