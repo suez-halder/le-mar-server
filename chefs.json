@@ -1,0 +1,53 @@
+{
+    "chefs": [
+      {
+        "id": 1,
+        "picture": "https://example.com/images/chef1.jpg",
+        "name": "Jean-Pierre Dupont",
+        "years_of_experience": 15,
+        "num_recipes": 87,
+        "likes": 152
+      },
+      {
+        "id": 2,
+        "picture": "https://example.com/images/chef2.jpg",
+        "name": "Marie-Claire Dubois",
+        "years_of_experience": 20,
+        "num_recipes": 112,
+        "likes": 245
+      },
+      {
+        "id": 3,
+        "picture": "https://example.com/images/chef3.jpg",
+        "name": "Antoine Laurent",
+        "years_of_experience": 12,
+        "num_recipes": 67,
+        "likes": 98
+      },
+      {
+        "id": 4,
+        "picture": "https://example.com/images/chef4.jpg",
+        "name": "Sophie Martin",
+        "years_of_experience": 18,
+        "num_recipes": 92,
+        "likes": 187
+      },
+      {
+        "id": 5,
+        "picture": "https://example.com/images/chef5.jpg",
+        "name": "Pierre Leblanc",
+        "years_of_experience": 10,
+        "num_recipes": 45,
+        "likes": 75
+      },
+      {
+        "id": 6,
+        "picture": "https://example.com/images/chef6.jpg",
+        "name": "Isabelle Dupuis",
+        "years_of_experience": 22,
+        "num_recipes": 118,
+        "likes": 298
+      }
+    ]
+  }
+  
